@@ -1,0 +1,32 @@
+[
+  {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "unii": "4M297U6878",
+    "wfo": "wfo-0000222265"
+  },
+  {
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "unii": "6UKA3TSJ1E",
+    "wfo": "wfo-0000054562"
+  },
+  {
+    "common_name": "Licorice",
+    "scientific_name": "Glycyrrhiza glabra",
+    "unii": "8YGH0NS302",
+    "wfo": "wfo-0000136973"
+  },
+  {
+    "common_name": "Ashwagandha",
+    "scientific_name": "Withania somnifera",
+    "unii": "PXW8Y145G4",
+    "wfo": "wfo-0000550385"
+  },
+  {
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "unii": "8H58749Y9Q",
+    "wfo": "wfo-0000391053"
+  }
+]
